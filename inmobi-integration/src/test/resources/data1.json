@@ -1,0 +1,21 @@
+[ {
+  "name" : "Jack Dalton",
+  "id" : 115,
+  "description" : " mad at Averell"
+}, {
+  "name" : "Joe Dalton",
+  "id" : 105,
+  "description" : " calming Joe"
+}, {
+  "name" : "William Dalton",
+  "id" : 105,
+  "description" : " keeping Joe from killing Averell"
+}, {
+  "name" : "Averell Dalton",
+  "id" : 80,
+  "description" : " playing with Rantanplan"
+}, {
+  "name" : "Lucky Luke",
+  "id" : 120,
+  "description" : " capturing the Daltons"
+} ]
